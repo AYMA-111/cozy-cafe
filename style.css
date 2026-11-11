@@ -1,0 +1,48 @@
+body {
+    background-color: #fffaf2;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.hero {
+    background-color: #f5d6a1;
+    padding: 120px 20px;
+}
+
+.hero h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+.card {
+    border: none;
+}
+
+.menu-card {
+    padding: 15px;
+}
+
+.about-box {
+    padding: 30px;
+}
+
+.cafe-image {
+    background-color: #e8c39e;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    border-radius: 10px;
+}
+
+footer {
+    margin-top: 50px;
+}
